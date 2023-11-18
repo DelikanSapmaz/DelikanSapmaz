@@ -1,4 +1,4 @@
-#👋 About Me
+👋 About Me
 
 Hello! I'm passionate about the limitless possibilities that machine learning and deep learning offer in shaping the future. My journey in the realm of artificial intelligence has been both exhilarating and transformative.
 
